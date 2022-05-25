@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/mravalso)](https://github.com/JaeSeoKim/badge42)
+[![mravalso's 42 stats](https://badge42.vercel.app/api/v2/cl3lkknm2012509mldy1qbgy9/stats?cursusId=21&coalitionId=125)](https://github.com/Rosenval)
