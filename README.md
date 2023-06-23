@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, Mia here!<br>🖥 42Roma Luiss student<br>⌨️ Currently working with Java, Spring, MySQL, Angular<br>📫 Reach me -> mia.rvl97@gmail.com
+👋 Hi, Mia here!<br>🖥 42Roma Luiss student<br>⌨️ Currently working with Java, Spring, MySQL<br>📫 Reach me -> mia.rvl97@gmail.com
 
 
 ## 🌐 Socials:
